@@ -1,0 +1,160 @@
+{
+  "book_id": "gilded-age-american-epic-narrative-individual-collective",
+  "title": "The Ledger and the Levee",
+  "tagline": "In the churning heart of a nation, one man's memory holds the key to its fortune and its soul.",
+  "target_words": 70000,
+  "actual_words": 71885,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Illusion of Individual Agency in a System of Capital",
+    "Memory as Both a Personal Gift and a Commodity",
+    "The River as a Living, Indifferent Engine of Destiny",
+    "The Unseen Architecture of Power Built on Labor"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The River's Arithmetic",
+      "words": 2995
+    },
+    {
+      "ch": 2,
+      "title": "The Price of Precision",
+      "words": 2995
+    },
+    {
+      "ch": 3,
+      "title": "Whispers in the Warehouse",
+      "words": 2995
+    },
+    {
+      "ch": 4,
+      "title": "The Broken Net",
+      "words": 2995
+    },
+    {
+      "ch": 5,
+      "title": "A Debt of Coffee",
+      "words": 2995
+    },
+    {
+      "ch": 6,
+      "title": "The Iron-Filing Gaze",
+      "words": 2995
+    },
+    {
+      "ch": 7,
+      "title": "Manifest of Intentions",
+      "words": 2995
+    },
+    {
+      "ch": 8,
+      "title": "The Chandlery's Ledger",
+      "words": 2995
+    },
+    {
+      "ch": 9,
+      "title": "Blood on the Bills of Lading",
+      "words": 2995
+    },
+    {
+      "ch": 10,
+      "title": "The Aorta Clogs",
+      "words": 2995
+    },
+    {
+      "ch": 11,
+      "title": "A Proposition in Broadcloth",
+      "words": 2995
+    },
+    {
+      "ch": 12,
+      "title": "The Memory of Mud",
+      "words": 2995
+    },
+    {
+      "ch": 13,
+      "title": "Seeds of Doubt",
+      "words": 2995
+    },
+    {
+      "ch": 14,
+      "title": "The Collective's Grunt",
+      "words": 2995
+    },
+    {
+      "ch": 15,
+      "title": "Fire in the Gin",
+      "words": 2995
+    },
+    {
+      "ch": 16,
+      "title": "Numbers Don't Lie, Men Do",
+      "words": 2995
+    },
+    {
+      "ch": 17,
+      "title": "The Weight of a Hogshead",
+      "words": 2995
+    },
+    {
+      "ch": 18,
+      "title": "Choosing Sides",
+      "words": 2995
+    },
+    {
+      "ch": 19,
+      "title": "The Valve Sticks",
+      "words": 2995
+    },
+    {
+      "ch": 20,
+      "title": "A Personal Reckoning",
+      "words": 2995
+    },
+    {
+      "ch": 21,
+      "title": "The Ledger Burns",
+      "words": 2995
+    },
+    {
+      "ch": 22,
+      "title": "What the River Claims",
+      "words": 2995
+    },
+    {
+      "ch": 23,
+      "title": "A New Arithmetic",
+      "words": 2995
+    },
+    {
+      "ch": 24,
+      "title": "Dawn on Different Water",
+      "words": 2995
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a minor dockworker observes Silas's perfect memory in action and realizes its potential value—or danger.",
+      "Draft a letter from Cornelius Leland to an unseen business partner, explaining his philosophy of 'physiological necessity' and his assessment of Silas Thorne.",
+      "Create a monologue for Elara Vance, reflecting on the difference between the practical knowledge of the chandlery and the abstract knowledge of the ledger.",
+      "Imagine a chapter from the perspective of the river itself, personified, watching the human drama on its banks with ancient indifference."
+    ],
+    "technical": [
+      "Build an interactive 'River Ledger' that visualizes the flow of commodities (cotton, tobacco, machinery) through Silas's manifests, showing the network of plantations, buyers, and debts.",
+      "Create a text-based simulation where the user must manage dock operations, balancing cargo, labor, and time, with Silas's memory as a key upgradable stat."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Herman Melville (for the epic scale of industry as a force of nature)",
+      "Edith Wharton (for the intricate, unspoken architecture of social and economic power)",
+      "Upton Sinclair (for the visceral depiction of labor and systemic exploitation)",
+      "Toni Morrison (for the exploration of memory as a narrative and moral force)"
+    ]
+  },
+  "cover_prompt": "A solitary man in a tailored but worn suit stands knee-deep in the churning, silty water of a great river, his back to us as he gazes at the colossal, smoke-belching industrial works on the opposite bank, where the silhouettes of countless laborers move like ants, the scene framed by the intricate iron lattice of a railway bridge overhead, in the atmospheric style of a composite of Thomas Hart Benton's muscular American realism and the moody, luminous landscapes of Albert Bierstadt, book cover framing, centered composition with a low, dramatic angle looking up at the bridge and down at the reflective water, cinematic chiaroscuro lighting where the warm, gilded light from the factory windows cuts through the cold, blue-haze twilight and glints on the wet ledger book he holds submerged at his side, masterpiece, best quality, ultra detailed, intricate details of water droplets on wool, etched metal, and soot-stained brick, professional composition, sharp focus, 8k resolution, flux dev"
+}
