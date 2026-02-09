@@ -2,7 +2,8 @@
 
 ## **Chapter 1**
 
-The river didn’t smell like money yet. That was Silas’s first thought, standing on the levee in the predawn murk, the Mississippi a vast, breathing blackness to his left. It smelled of mud, of rotting wood, of fish and wet stone. But he could hear the money coming. A low, rhythmic chuffing, like a beast clearing its throat, and beneath it, the wet, muscular slap of the paddlewheel. A pinpoint of jaundiced light wobbled on the water, then another, as the *Queen of Natchez* rounded the bend, her stacks belching sparks into the star-flecked dark. She was late. She was always late, but she was coming, and with her came the only moment of the day that belonged entirely to Silas Thorne.
+Copper stung the air, the taste of a city sweating money. From his window, Silas watched the new steel frames claw at a heaven thick with promise and soot. His own reflection, gilded by gaslight, stared back—a man building an empire on a ledger’s edge, one collective dream purchased with a thousand solitary debts.
+
 
 He hitched the strap of the leather bag higher on his shoulder, the weight of its contents—manifest, bills of lading, a greasy ledger, two sharpened pencils, a brass stamp—a familiar anchor against the flutter in his gut. The levee was a chaos of shadows resolving into shapes: mounds of cotton bales shrouded in canvas, pyramids of salt barrels, the hulking, silent forms of steam cranes. Other men materialized from the gloom, the stevedores and roustabouts, their faces hollowed by the lanterns they carried. They moved with a weary purpose, a tribe that spoke in grunts and gestures. Silas was not one of them. He was the clerk. The man with the bag. The man who turned cargo into numbers and numbers into debt.
 
