@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The river didn’t smell like money yet. That was Silas’s first thought, standing on the levee in the predawn murk, the Mississippi a vast, breathing blackness to his left. It smelled of mud, of rotting wood, of fish and wet stone. But he could hear the money coming. A low, rhythmic chuffing, like a beast clearing its throat, and beneath it, the wet, muscular slap of the paddlewheel. A pinpoint of jaundiced light wobbled on the water, then another, as the *Queen of Natchez* rounded the bend, her stacks belching sparks into the star-flecked dark. She was late. She was always late, but she was coming, and with her came the only moment of the day that belonged entirely to Silas Thorne.
@@ -99,6 +101,8 @@ He closed the ledger. The flaw was now part of the record. Contained. Understood
 He walked up the cobblestone street, away from the river. The smell of money was here. It was in the smoke from the factories, in the scent of fresh-cut lumber from the building sites, in the roasting coffee from the merchants’ doors. It was the smell of a city being built, not by gods or rivers, but by men with ledgers and lumber, with sweat and steel, with cold calculation and the occasional, necessary deflection of a runaway barrel.
 
 Silas Thorne breathed it in. He did not love it. But he understood its grammar. And for now, that was enough.
+
+# Chapter 2
 
 ## **Chapter 2**
 
@@ -207,6 +211,8 @@ Van Houten wasn’t paying for his memory. He was paying for his forgetting. For
 Silas Thorne looked at the river, the old, brown, obsolete god. He had understood its grammar. Now he was being offered the syntax of a new language, the language of iron and steam and futures bought on paper.
 
 He turned his back on the water and walked toward the city of brick and ambition. The calculation had begun.
+
+# Chapter 3
 
 ## **Chapter 3**
 
